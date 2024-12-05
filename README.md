@@ -1,2 +1,2 @@
 # PushWASD
-2024吉比特Gamejam比赛作品
+2024吉比特gamejam比赛作品
